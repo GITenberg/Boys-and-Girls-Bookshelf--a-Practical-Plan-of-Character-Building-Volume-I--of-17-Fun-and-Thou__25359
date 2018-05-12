@@ -1,0 +1,56 @@
+_repo: Boys-and-Girls-Bookshelf--a-Practical-Plan-of-Character-Building-Volume-I--of-17-Fun-and-Thou__25359
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editors:
+  - agent_name: Baltzell, W. J. (Winton James)
+    alias: Baltzell, Winton James
+    birthdate: 1864
+    deathdate: 1928
+    gutenberg_agent_id: '6650'
+    url: http://www.gutenberg.org/2009/agents/6650
+  - agent_name: Wheeler, Daniel Edwin
+    birthdate: 1880
+    gutenberg_agent_id: '31278'
+    url: http://www.gutenberg.org/2009/agents/31278
+  - agent_name: Forbush, William Byron
+    birthdate: 1868
+    deathdate: 1927
+    gutenberg_agent_id: '9015'
+    url: http://www.gutenberg.org/2009/agents/9015
+  - agent_name: Wade, Herbert T. (Herbert Treadwell)
+    alias: Wade, Herbert Treadwell
+    birthdate: 1872
+    gutenberg_agent_id: '31276'
+    url: http://www.gutenberg.org/2009/agents/31276
+  - agent_name: Johnson, Rossiter
+    alias: Johnson, Edwin Rossiter
+    birthdate: 1840
+    deathdate: 1931
+    gutenberg_agent_id: '3308'
+    url: http://www.gutenberg.org/2009/agents/3308
+description: ''
+gutenberg_bookshelf: Children's Anthologies
+gutenberg_issued: '2008-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25359'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s literature'
+title: 'Boys and Girls Bookshelf; a Practical Plan of Character Building, Volume I
+  (of 17)
+
+  Fun and Thought for Little Folk'
+url: http://www.gutenberg.org/ebooks/25359
